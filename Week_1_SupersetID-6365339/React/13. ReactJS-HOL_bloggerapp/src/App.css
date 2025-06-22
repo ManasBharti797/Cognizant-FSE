@@ -1,0 +1,43 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 60px;
+  font-family: Segoe UI;
+}
+
+.section {
+  flex: 1;
+  padding: 0 30px;
+}
+
+.divider {
+  width: 4px;
+  background: #228B22;
+  height: 420px;
+  align-self: stretch;
+  border-radius: 2px;
+  margin: 0 10px;
+}
+#bg{
+  font-family: Segoe UI;
+  font-weight:900;
+  font-size: 30px;
+}
+#sd{
+  font-family: Segoe UI;
+  font-weight:900;
+  font-size: 16px;
+}
+h1{
+  font-family: Segoe UI;
+  font-weight: 700;
+  font-size: 35px;
+}
+h3{
+  font-family: Segoe UI;
+  font-weight: 800;
+  font-size: 20px;
+}
