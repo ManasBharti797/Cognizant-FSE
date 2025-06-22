@@ -1,0 +1,12 @@
+c:\Users\KIIT\Downloads\try\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+c:\Users\KIIT\Downloads\try\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+c:\Users\KIIT\Downloads\try\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.AssemblyReference.cache
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+c:\Users\KIIT\Downloads\try\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
