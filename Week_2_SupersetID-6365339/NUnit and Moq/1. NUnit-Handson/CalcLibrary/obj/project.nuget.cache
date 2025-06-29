@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SF+NqCVhSso=",
+  "success": true,
+  "projectFilePath": "D:\\Cognizant-learning-program-solutions-SuperSet-ID-6365339\\Week_2_SupersetID-6365339\\NUnit and Moq\\1. NUnit-Handson\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
