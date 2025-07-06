@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalcLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db89100b230d722bd3fb2962db648ff61d8ef1ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+296ef23a5432ca58042bc2fdbc991dd0978eaa1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalcLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalcLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
